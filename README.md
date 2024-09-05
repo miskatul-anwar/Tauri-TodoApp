@@ -53,14 +53,6 @@ To get started with TodoApp, download the installer for Windows:
 > **Note**: if you prefer installing .exe file click the link below...
 > [Download TodoApp.exe](https://drive.google.com/uc?export=download&id=11h-jlEGU244_ebqibIcWOahIVz5gsxHt)
 
-## Getting Started
-
-To learn more about installation, check the [Installation Guide](INSTALLATION.md).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 We hope you enjoy using TodoApp to manage your daily tasks more efficiently!
