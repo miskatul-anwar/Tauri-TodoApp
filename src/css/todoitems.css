@@ -1,0 +1,44 @@
+.todoitemlist {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 4px;
+  padding: 4px;
+  font-size: 2rem;
+  background: #22085058;
+  backdrop-filter: blur(100px);
+  flex-direction: row;
+  border-radius: 12px;
+  width: 80%;
+  height: 10vh;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.todoitemlist:hover {
+  filter: drop-shadow(0 0 2em #ff03c8cc);
+}
+
+.todoitemlist.completed {
+  text-decoration: line-through;
+  color: #888;
+  filter: opacity(0.6);
+}
+
+.todoitemlist button {
+  height: 90%;
+  width: 50px;
+  border: 4px solid #22085089;
+  border-radius: 0.5rem;
+  outline: none;
+  padding: 0.4rem;
+  background: transparent;
+  backdrop-filter: blur(100px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.todoitemlist button:hover {
+  filter: drop-shadow(0 0 2em #ff03c8cc);
+}
