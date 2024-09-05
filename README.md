@@ -48,7 +48,7 @@ Welcome to **TodoApp**, a sleek and modern Todo application built with **React**
 
 To get started with TodoApp, download the installer for Windows:
 
-[Donwnload TodoApp.msi](https://raw.githubusercontent.com/miskatul-anwar/Tauri-TodoApp/src-tauri/target/release/bundle/msi/todoapp_0.1.0_x64_en-US.msi)
+[Donwnload TodoApp.msi](https://raw.githubusercontent.com/miskatul-anwar/Tauri-TodoApp/src-tauri/target/release/bundle/msi/todoapp_0.1.0_x64_en-US.msi)  
 If you prefer exe:
 [Download TodoApp.exe](https://raw.githubusercontent.com/miskatul-anwar/Tauri-TodoApp/src-tauri/target/release/bundle/nsis/todoapp_0.1.0_x64-setup.exe)
 
