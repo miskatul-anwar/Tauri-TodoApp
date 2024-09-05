@@ -6,10 +6,11 @@ Welcome to **TodoApp**, a sleek and modern Todo application built with **React**
 
 To get started with TodoApp, download the installer for Windows:
 
-[Donwnload TodoApp.msi](https://drive.google.com/uc?export=download&id=11iMpiTfuMos0UxL2cCXGNrA59cdgJG66)
+> [Download TodoApp.msi](https://drive.google.com/uc?export=download&id=11h-jlEGU244_ebqibIcWOahIVz5gsxHt)
 
-> **Note**: if you prefer installing `.exe` file click the link below...  
-> [Download TodoApp.exe](https://drive.google.com/uc?export=download&id=11h-jlEGU244_ebqibIcWOahIVz5gsxHt)
+> **Note**: if you prefer installing `.exe` file click the link below...
+
+[Donwnload TodoApp.exe](https://drive.google.com/uc?export=download&id=11iMpiTfuMos0UxL2cCXGNrA59cdgJG66)
 
 ## Features
 
