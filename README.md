@@ -2,6 +2,15 @@
 
 Welcome to **TodoApp**, a sleek and modern Todo application built with **React**, **Vite**, **TypeScript (TSX)**, and **Tauri**. This app is designed to help you manage your tasks efficiently with an intuitive user interface and robust performance.
 
+## Download
+
+To get started with TodoApp, download the installer for Windows:
+
+[Donwnload TodoApp.msi](https://drive.google.com/uc?export=download&id=11iMpiTfuMos0UxL2cCXGNrA59cdgJG66)
+
+> **Note**: if you prefer installing `.exe` file click the link below...  
+> [Download TodoApp.exe](https://drive.google.com/uc?export=download&id=11h-jlEGU244_ebqibIcWOahIVz5gsxHt)
+
 ## Features
 
 - **Add, Delete, and Toggle Tasks**: Easily manage your todos with simple add, delete, and toggle functionality.
@@ -43,15 +52,6 @@ Welcome to **TodoApp**, a sleek and modern Todo application built with **React**
 - **Development Speed**: Vite's Hot Module Replacement and React's reusable components significantly speed up development time.
 - **Security**: Tauri's backend in Rust ensures that the app is less vulnerable to common attacks.
 - **Cross-platform Compatibility**: Build once and deploy on multiple platforms (Windows, macOS, and Linux).
-
-## Download
-
-To get started with TodoApp, download the installer for Windows:
-
-[Donwnload TodoApp.msi](https://drive.google.com/uc?export=download&id=11iMpiTfuMos0UxL2cCXGNrA59cdgJG66)
-
-> **Note**: if you prefer installing `.exe` file click the link below...  
-> [Download TodoApp.exe](https://drive.google.com/uc?export=download&id=11h-jlEGU244_ebqibIcWOahIVz5gsxHt)
 
 ---
 
